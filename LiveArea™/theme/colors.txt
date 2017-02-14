@@ -1,0 +1,91 @@
+#VitaShell 1.60
+#Tema LiveArea™ v1
+#Por NEOGEOKAI
+#Colores interfas 
+BACKGROUND_COLOR             = 0x00000000
+TITLE_COLOR                  = 0xFFFFFFFF
+PATH_COLOR                   = 0xFFFFFFFF
+DATE_TIME_COLOR              = 0xFFFFFFFF
+
+#Colores del configuracion principal
+SETTINGS_MENU_COLOR          = 0xFF000000
+SETTINGS_MENU_FOCUS_COLOR    = 0xFFFF0000
+SETTINGS_MENU_TITLE_COLOR    = 0xFFB6B6B6
+SETTINGS_MENU_ITEM_COLOR     = 0xFFFFFFFF
+SETTINGS_MENU_OPTION_COLOR   = 0xFFFFFFFF
+
+#Colores navegador de archivos
+FOCUS_COLOR                  = 0xFF000000
+FILE_COLOR                   = 0xFFFFFFFF
+SFO_COLOR                    = 0xFFFFFFFF
+TXT_COLOR                    = 0xFFFFFFFF
+FOLDER_COLOR                 = 0xFFFFFFFF
+IMAGE_COLOR                  = 0xFFFFFFFF
+ARCHIVE_COLOR                = 0xFFFFFFFF
+SCROLL_BAR_COLOR             = 0xFFFFFFFF
+SCROLL_BAR_BG_COLOR          = 0xFFFFFFFF
+MARKED_COLOR                 = 0x4F6A240A
+
+#Colores del menu Contexto
+CONTEXT_MENU_TEXT_COLOR      = 0xFF000000
+CONTEXT_MENU_FOCUS_COLOR     = 0xCCFF0000
+CONTEXT_MENU_COLOR           = 0x00000000
+CONTEXT_MENU_MORE_COLOR      = 0x00000000
+INVISIBLE_COLOR              = 0x2F000000
+
+#Colores de Dialogo
+DIALOG_COLOR                 = 0xFFFFFFFF
+DIALOG_BG_COLOR              = 0x00000000
+PROGRESS_BAR_COLOR           = 0xFF00FF00
+PROGRESS_BAR_BG_COLOR        = 0xFFB3B7B7
+
+#Colores del editor Hexadecimal
+HEX_COLOR                    = 0xFF000000
+HEX_OFFSET_COLOR             = 0xFF303030
+HEX_NIBBLE_COLOR             = 0xFF0000FF
+
+#Colores del editor Texto 
+TEXT_COLOR                   = 0xFF000000
+TEXT_FOCUS_COLOR             = 0xCCFF0000
+TEXT_LINE_NUMBER_COLOR       = 0xFF4F4F4F
+TEXT_LINE_NUMBER_COLOR_FOCUS = 0xFF7F7F7F
+TEXT_HIGHLIGHT_COLOR         = 0x4F6A240A
+
+#Colores del Visor de Fotos 
+PHOTO_ZOOM_COLOR             = 0xFFFFFFFF
+
+#Colores del Reproductor Audio
+AUDIO_INFO_ASSIGN            = 0xFFFFFFFF
+AUDIO_INFO                   = 0xFFFFFFFF
+AUDIO_SPEED                  = 0xFFFFFFFF
+AUDIO_TIME_CURRENT           = 0xFFFFFFFF
+AUDIO_TIME_SLASH             = 0xFFFFFFFF
+AUDIO_TIME_TOTAL             = 0xFFFFFFFF
+AUDIO_TIME_BAR               = 0xFF00FF00
+AUDIO_TIME_BAR_BG            = 0xFFFFFFFF
+
+#Colores UI2
+ITEM_BORDER                  = 0xDDDDDDDD   # Gris
+ITEM_BORDER_SELECT           = 0xFF00FF00   # Verde
+BACKGROUND_COLOR_TEXT_ITEM   = 0xFFFFFFFF   # Blanco
+ALPHA_TITLEBAR               = 0xB4         # 180    
+
+#Paleta de Colores
+     0xFF000000:Negro
+     0xFFFFFFFF:Blanco
+     0xFFFF0000:Azul
+     0xFFFF7F00:Azul Celeste
+     0xFFFFFF00:Agua Marina
+     0xFF0000FF:Rojo
+     0xFF00FF00:Verde
+     0xFF007FFF:Naranja
+     0xFF80F5FF:Amrillo
+     0xFFFF007F:Morado
+     0xFF7f00FF:Rosado
+     0xFF80F5FF:Gris
+     0xFF00FF00:Gris Claro
+     0xFF424242:Gris 2
+     0xFF3F3F3F:Gris Oscuro 0
+     0xFF212121:Gris Oscuro 1
+     0xFF1E1E1E:Gris Oscuro 2
+     0xFA1E1E1E:Gris Alpha  
